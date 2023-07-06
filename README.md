@@ -1,5 +1,5 @@
 # Simple Coffee Enthusiast Website V2.
-
+### Technology Used:
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"
                 height="30" />
@@ -13,7 +13,51 @@
 ## Brief Description
 This website is made for RevoU assignment.<br>
 
+## Website Link
 
+### Website Deployment Documentation:
+
+
+## Website Preview
+### Dark & Light Mode
+
+<table>
+  <tr>
+    <td align="center" style="vertical-align: top;">
+      <img src="./assets/imgs/dark-view.png" width="400" alt="Desktop View">
+    </td>
+    <td align="center">
+      <img src="./assets/imgs/light-view.png" width="400" alt="Mobile View">
+    </td>
+  </tr>
+</table>
+
+### Survey and Register Button Modal:
+
+<table>
+  <tr>
+    <td align="center" style="vertical-align: top;">
+      <img src="./assets/imgs/reg.png" width="400" alt="Desktop View">
+    </td>
+    <td align="center">
+      <img src="./assets/imgs/survey.png" width="400" alt="Mobile View">
+    </td>
+  </tr>
+</table>
+
+### Lighthouse Result
+<p align="center">
+  <img src="./assets/imgs/desktop-lighthouse.png" width="800" title="web-img">
+</p>
+<p align="center">
+  <img src="./assets/imgs/mobile-lighthouse.png" width="880" title="web-img">
+</p>
+
+
+### Mobile View
+<p align="center">
+  <img src="./assets/imgs/mobile-view.png" width="400" title="web-img">
+</p>
 
 
 
