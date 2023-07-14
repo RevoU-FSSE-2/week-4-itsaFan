@@ -26,7 +26,7 @@ Below is the deployment process,
 **if you want to view the full documentation of the deployment process, click on this** [Link Here!](https://docs.google.com/document/d/1qMwkD-XZhZDRf_GG5Ubc-sOdkKRPWbh5UPLIhT8cH_Q/edit?usp=sharing)
 
 ## Website Link
-Click here: [Coffee Website V2](https://steff-coffee.site/)
+Click here: [Coffee Website V2](https://steffan-revou-week4.netlify.app/)
 
 ## Website Preview
 ### Dark & Light Mode
